@@ -1,5 +1,3 @@
-Here is the **final version** of your GitHub profile template **without placeholders**, ready to be used directly in your README file:
-
 ---
 
 # 👋 Hi there, I'm a Software Engineering Learner!
